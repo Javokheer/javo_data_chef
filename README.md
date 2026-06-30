@@ -10,7 +10,7 @@
 - 📫 How to reach me:  www.linkedin.com/in/javokhir-khusanov.
 - 😎 Pronoun: he/him
 - ⚡️ Fun fact: I watch videos with 2X speed and don't watch movies
-- 🔑 Check out my [SQL Technical Interview Question Series](https://github.com/Javokheer/stratascratch-leetcode-hackerrank/tree/primary/solutions)
+
 
 <!---
 Javokheer/Javokheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
